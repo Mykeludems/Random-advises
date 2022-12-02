@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+#blackBox{
+    height: 300px;
+    width: 450px;
+    background-color: rgb(26, 26, 32);
+    position: relative;
+    top: 250px;
+    left: 450px;
+    border-radius: 10px;
+    padding: 20px;
+}
+#mainAdvise{
+    position: fixed;
+    top: 340px;
+    left: 520px;
+    color: white;
+    font-size: 30px;
+    max-width: 380px;
+    
+    text-align: center;
+    
+}
+#AdviseLine2{
+position: fixed;
+top: 370px;
+left: 510px;
+text-align: center;
+}
+#AdviseLine3{
+    position: fixed;
+    top: 400px;
+    left: 560px;
+    text-align: center;
+}
+ #adviseNumber{
+     color: rgba(153, 255, 0, 0.685);
+     position: relative;
+    top: 30px;
+    left: 160px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+ }
+ #downImage{
+    position: fixed;
+    top: 500px;
+    left: 503px;
+ }
+ #diceImageBackground{
+     height: 70px;
+     width: 70px;
+     background-color: rgba(153, 255, 0, 0.685);
+     border-radius: 50px;
+     position: fixed;
+    top: 560px;
+    left: 668px;
+ }
+ #diceImage{
+    position: fixed;
+   top:582px;
+    left: 685px;
+ }
